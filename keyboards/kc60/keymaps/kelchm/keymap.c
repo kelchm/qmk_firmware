@@ -47,7 +47,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
       KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,   KC_TRNS,   \
       KC_LCTL,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,   KC_TRNS,   \
       KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,   KC_TRNS,   \
-      KC_TRNS,  KC_LGUI,  KC_LALT,                      KC_TRNS,                                          KC_RALT,  KC_TRNS,  KC_RGUI,   KC_RCTL    \
+      KC_TRNS,  KC_LGUI,  KC_LALT,                      KC_TRNS,                                          KC_RALT,  KC_TRNS,  KC_RGUI,   KC_TRNS    \
       ),
 
    /* Layer 2: SpaceFN
